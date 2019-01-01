@@ -1,0 +1,19 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxdmike/git-test.git"
+  },
+  "author": "changsheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zxdmike/git-test/issues"
+  },
+  "homepage": "https://github.com/zxdmike/git-test#readme"
+}
